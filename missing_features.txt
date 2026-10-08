@@ -1,0 +1,5 @@
+- mancano test
+- deploy
+- storage in db email e domande non correlate
+- running con debug
+- le notifiche push con email invece che da cellulare
