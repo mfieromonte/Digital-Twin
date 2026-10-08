@@ -1,0 +1,11 @@
+Sure — here is a concise **English summary** of the CV:
+
+Martina Fieromonte is a **Python Developer and Computational Linguist** with professional experience in software development, Natural Language Processing, Machine Learning, and Large Language Models. She has been working at **Gruppo RES / RES IT in Milan** since 2020, first as a Computational Linguist and, since 2021, also as a Python Developer. resume_martina_fieromonte
+
+Her technical background includes **Python, R, SQL, Flask, Plotly Dash, Beautiful Soup, Selenium, MySQL, PostgreSQL, Git, Docker, Kubernetes, and AWS**. Her work involves developing and maintaining web applications, web scraping, querying social-media APIs, working with relational databases, testing and debugging, and collaborating in Agile environments. resume_martina_fieromonte
+
+She also has strong experience in **NLP, Machine Learning and Generative AI**, including projects involving GPT and LLaMA models, prompt design and optimization, text classification, topic detection, information retrieval, and semi-automated text annotation. resume_martina_fieromonte
+
+Martina holds a **Master’s degree in Theoretical, Applied and Modern Language Linguistics from the University of Pavia**, completed with **110/110 cum laude**, and a **Bachelor’s degree in Modern Languages from the University of Genoa**. She has also completed additional training in Python, SQL, NLP, statistical inference, and exploratory data analysis. resume_martina_fieromonte
+
+Her profile combines **software engineering skills with a strong linguistic and NLP background**, making her particularly suited to roles in **Python development, NLP, Machine Learning, LLM applications and AI-driven language technologies**.
